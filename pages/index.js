@@ -55,7 +55,7 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> Solana Store for ALL your NFT Needs 😉 </p>
+          <p className="header"> Sanshi's Solana Store for ALL your NFT Needs 😉 </p>
           <p className="sub-text"> Silk Road of the brave new digital world </p>
 
           {isOwner && (
