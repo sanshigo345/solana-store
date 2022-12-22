@@ -1,0 +1,9 @@
+Title: Sanshi's Solana Store (sasost)
+Overview: This dApp let users to sell and buy digital goods on solana blockchain.
+Problem: Easy and simple way to interact with buyers/sellers is hard to come by with simple UI.
+Solution: This dApp extremely simple to understand and use. It also lets users to be buyer or seller or both.
+Features: Very user-friendly interface, solana secured transactions on blockchain.
+Benefits: Easy to use. Also this is on Solana blockchain so its faster and fees are much much smaller.
+Implementation: To use the dApp just use the deployed site with simple frontend.
+Why Solana: Solana is way faster and way cheaper for this kind of small projects.
+Conclusion: To be honest biggest value of this app it let me learn more about WEB3 development. Right now it have lot of missing parts.
