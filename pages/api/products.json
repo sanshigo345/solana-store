@@ -1,11 +1,32 @@
 [
-    {
-      "id": 1,
-      "name": "Sanshi Token",
-      "price": "0.09",
-      "description": "The almost official and not original art by Sanshi! Tokenized buy now!",
-      "image_url": "https://i.imgur.com/dvPhnGH.png",
-      "filename": "sanshitoken.png",
-      "hash": "QmPTYB87oHXHtiSfMuyUgBi5yFwxFZrvhqMdBd5vqXCCc4"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Sanshi Token",
+    "price": "0.09",
+    "description": "The almost official and not original art by Sanshi tokenized. Buy now!",
+    "image_url": "https://i.imgur.com/dvPhnGH.png",
+    "filename": "sanshitoken.png",
+    "hash": "QmPTYB87oHXHtiSfMuyUgBi5yFwxFZrvhqMdBd5vqXCCc4"
+  },
+  {
+    "id": 2,
+    "name": "3facelaugh",
+    "price": "0.99",
+    "image_url": "https://i.imgur.com/e0diGFC.png",
+    "description": "Emoji version of ROFLMAO"
+  },
+  {
+    "id": 3,
+    "name": "barzolaugh",
+    "price": "0.99",
+    "image_url": "https://i.imgur.com/cA0vjHz.png",
+    "description": "Are you a Barzo? You want to show it to the world? This is for you!"
+  },
+  {
+    "id": 4,
+    "name": "tomhmm",
+    "price": "10.00",
+    "image_url": "https://i.imgur.com/5zwqywn.jpg",
+    "description": "epic tom&jerry meme"
+  }
+]
