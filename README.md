@@ -1,15 +1,13 @@
-# buildspace Store on Solana Pay Project
+# Sanshi Solana Store
 
-### **Welcome 👋**
+This project deployed here https://sasost.vercel.app/
 
-To get started with this project, clone this repo and follow these commands:
+You can use this simple site to buy different digital art with your hard earned money.
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run dev` to start the project
-3. Start coding!
+To buy, download or upload items first you need to connect your wallet via "Connect" button.
 
-### What is the `.vscode` Folder?
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+When connected you can see digital arts that uploaded by others (right now just uploaded by me).
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
+You can also upload your own creation to the site (not working right now because it is deployed to vercel and not using a real database :))
+
+And you can enjoy this simple site ^^
